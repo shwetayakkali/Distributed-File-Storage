@@ -10,3 +10,4 @@ The application also has a cahing function for replicating files at levels just 
 
 Client.java - Client which stores the required file and requests for the file.
 Server.java - Has the functions for Consistent Hashing and provides transparency to the Client. Does file insertion in O(1) and file                     retrieval in O(log N)
+HashClass.java - Consistent Hashing Implementation.
